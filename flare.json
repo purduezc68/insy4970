@@ -1,0 +1,328 @@
+{
+ "name": "Lead Free Solder",
+ "children": [
+  {
+   "name": "SAC105",
+   "children": [
+    {
+     "name": "19mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    },
+    
+    
+     {
+     "name": "15mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    },
+    
+    
+    {
+     "name": "10mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    },
+    
+    
+    {
+     "name": "5mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    }
+    
+ 
+    
+    
+    
+   ]
+  },
+  
+  {
+   "name": "SAC305",
+   "children": [
+    {
+     "name": "19mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    },
+    
+    
+     {
+     "name": "15mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    },
+    
+    
+    {
+     "name": "10mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    },
+    
+    
+    {
+     "name": "5mm",
+     "children": [
+      {
+       "name": "ImAg",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714},
+	{"name": "24M", "size": 7850}
+       ] 
+      },	    
+     	    
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      },
+
+      {
+       "name": "ENIG",
+       "children":[
+	{"name": "NA", "size": 3938},
+	{"name": "6M", "size": 3812},
+        {"name": "12M", "size": 6714}
+	
+       ] 
+      }       
+	    
+	    
+     ]
+    }
+    
+ 
+    
+    
+    
+   ]
+  }
+  
+  
+ ]
+}
